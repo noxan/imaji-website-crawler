@@ -1,1 +1,2 @@
 scrapy==0.24.6
+service_identity==14.0.0
