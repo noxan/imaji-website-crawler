@@ -4,3 +4,5 @@
 /lib/
 # pip
 /pip-selfcheck.json
+# python
+*.pyc
